@@ -528,6 +528,7 @@ DEPENDENCIES
   optic14n
   paper_trail
   pg
+  phantomjs
   plek
   pry
   rails (= 6.0.3.3)

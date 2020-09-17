@@ -46,6 +46,7 @@ end
 
 group :development, :test do
   gem "jasmine"
+  gem "phantomjs"
   gem "pry"
   gem "rspec-collection_matchers"
   gem "rspec-rails"
