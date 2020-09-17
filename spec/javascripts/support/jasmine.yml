@@ -86,7 +86,6 @@ spec_dir:
 #
 # spec_helper: spec/javascripts/support/jasmine_helper.rb
 #
-spec_helper: spec/javascripts/support/jasmine_helper.rb
 
 # boot_dir
 #
