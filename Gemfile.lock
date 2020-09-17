@@ -301,6 +301,10 @@ GEM
     pg (1.2.3)
     phantomjs (2.1.1.0)
     plek (4.0.0)
+    poltergeist (1.18.1)
+      capybara (>= 2.1, < 4)
+      cliver (~> 0.3.1)
+      websocket-driver (>= 0.2.0)
     pry (0.13.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
@@ -530,6 +534,7 @@ DEPENDENCIES
   pg
   phantomjs
   plek
+  poltergeist
   pry
   rails (= 6.0.3.3)
   rails-controller-testing

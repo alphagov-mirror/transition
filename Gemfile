@@ -38,6 +38,7 @@ group :test do
   gem "factory_bot_rails"
   gem "govuk_test"
   gem "launchy" # Primarily for save_and_open_page support in Capybara
+  gem "poltergeist"
   gem "rails-controller-testing"
   gem "shoulda-matchers"
   gem "timecop"
