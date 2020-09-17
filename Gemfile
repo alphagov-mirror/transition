@@ -46,7 +46,7 @@ end
 
 group :development, :test do
   gem "jasmine"
-  gem "phantomjs"
+  gem "phantomjs", require: "phantomjs/poltergeist"
   gem "pry"
   gem "rspec-collection_matchers"
   gem "rspec-rails"
